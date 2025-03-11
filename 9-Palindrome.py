@@ -10,3 +10,6 @@ class Solution:
 solution = Solution()
 result = solution.isPalindrome(-121)
 print(result)
+
+
+
