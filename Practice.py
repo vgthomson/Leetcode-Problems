@@ -13,3 +13,6 @@ encoded_string = base64.b64encode(input_bytes)
 encoded_string = encoded_string.decode('utf-8')
 
 print(f"Encoded Base64 string: {encoded_string}")
+
+
+#Noted
